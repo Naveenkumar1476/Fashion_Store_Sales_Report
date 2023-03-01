@@ -22,4 +22,5 @@ SOME USEFUL INSIGHTS FROM THE DASHBOARD:
 FINAL CONCLUSION TO IMPROVE STORE-DATA-ANALYSIS.
 Target Women Customer of age group (30-49) lives in Maharastra ,kartanata and Uttar pradesh by showing adds ,offers and coupon are available on Amazon ,Flipkart and Myntra.
 
-![Fashion_store_sales_report](https://user-images.githubusercontent.com/119414542/222081886-635312ba-a90a-4b83-8d68-0ef91d9a57aa.png)
+![Fashion_store_sales_report](https://user-images.githubusercontent.com/119414542/222086152-9bada800-f981-40c9-8cbd-c180ed05289e.png)
+
