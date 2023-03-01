@@ -6,13 +6,18 @@ The GitHub sales analysis Excel dashboard is a customizable and dynamic tool des
 It also allows for customization, so sales teams can tailor the dashboard to their specific needs and preferences, including adding or removing metrics and adjusting the time frame for data analysis.
 
 SOME USEFUL INSIGHTS FROM THE DASHBOARD:
-1.Women are more likely to buy then men(65%)
 
-2.Maharastra,karnataka, and Uttar praedesh are top 3 states.
+1.In Sales_Mens_VS_Women Chart Women are more likely to buy then men(65%)
 
-3.Adult age group (30-49) is max contributing (50%)
+2.In Top5 States:Sales Chart Maharastra,karnataka,Uttar praedesh,Telangana and Tamil Nadu are top 5 states.
 
-4.Amazon,Flipkart and Myntra are max contributing (80%).
+3.In Order:Age VS Gender Chart Adult age group (30-49) is max contributing (50%)
+
+4.In Orders:Channels Chart Amazon,Flipkart and Myntra are max contributing (80%).
+
+5.In Orders VS Sales chart March month sales and orders are higher then the other months.
+
+6.In Order_Status chart Delivered orders sucessfully are (92%).
 
 FINAL CONCLUSION TO IMPROVE STORE-DATA-ANALYSIS.
 Target Women Customer of age group (30-49) lives in Maharastra ,kartanata and Uttar pradesh by showing adds ,offers and coupon are available on Amazon ,Flipkart and Myntra.
